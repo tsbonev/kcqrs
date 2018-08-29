@@ -4,4 +4,5 @@ include 'kcqrs-core',
         'kcqrs-client-gson',
         'kcqrs-appengine',
         'kcqrs-testing',
-        'kcqrs-example'
+        'kcqrs-example',
+        'kcqrs-mongodb'
